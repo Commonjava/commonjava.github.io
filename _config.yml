@@ -1,0 +1,9 @@
+safe: true
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "slate"
+      title: "Commonjava@GitHub"
+      tagline: "Documentation for Commonjava projects available on GitHub"
