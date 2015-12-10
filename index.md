@@ -6,7 +6,7 @@ permalink: /index.html
 
 Commonjava also includes applications:
 
-* [AProx](/aprox/) - a Maven repository manager.
+* [Indy](/indy/) - an artifact management platform for Maven (and soon, other) builds.
 
 ### Utility Projects
 
@@ -16,3 +16,6 @@ The Commonjava family of projects contains several utility projects that make it
 * [Partyline](/partyline/) - a joinable I/O API (multiple readers while writing a file)
 * [Weft](/weft/) - a Thread- and Executor-management API for use in CDI applications
 
+### Deprecated Names / Projects
+
+* [AProx](/indy/) - Name changed to Indy.
